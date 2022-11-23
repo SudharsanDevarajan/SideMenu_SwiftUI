@@ -1,9 +1,6 @@
 //
-//  SideMenu_SwiftUIApp.swift
-//  SideMenu_SwiftUI
-//
-//  Created by htcuser on 23/11/22.
-//
+//  SideMenuSwiftUI.swift
+//  Created by Sudharsan on 22/11/22.
 
 import SwiftUI
 
@@ -11,7 +8,7 @@ import SwiftUI
 struct SideMenu_SwiftUIApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HomeView()
         }
     }
 }
